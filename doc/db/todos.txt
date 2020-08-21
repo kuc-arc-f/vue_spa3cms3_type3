@@ -1,0 +1,7 @@
+//
+    var task = {
+        title: this.title,
+        content: this.content,
+	complete: 0,
+        created_at: new Date(),
+    }

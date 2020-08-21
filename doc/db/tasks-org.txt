@@ -1,0 +1,8 @@
+//
+var task = {
+    "id": this.tasks.length + 1,
+    'title': this.title,
+    'content': this.content,
+    'deleted': 0,
+};
+
